@@ -6,7 +6,7 @@ import { Component, numberAttribute } from '@angular/core';
   styleUrl: './app.component.css'
 })
 export class AppComponent {
-  title = 'Hello World';
+  title = 'Hello Experis Göteborg Pro Java Programmers Epic';
   count: number = 0;
 
   public increment(){
